@@ -1,2 +1,7 @@
 # gitScripts
-Scripts that i write during my free time. Whether it be from exercises/assignments, courses, educational videos, books or even just coding on my own.
+I've split different languages to different folders for convenience purposes.
+
+In this repo you will find scripts that are solutions for problems found in books, courses, websites and competitions.
+
+Furthermore, you will also find code that i write on my free time.
+
